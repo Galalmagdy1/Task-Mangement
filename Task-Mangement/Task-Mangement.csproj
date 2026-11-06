@@ -60,6 +60,12 @@
     <Compile Include="Forget pass.Designer.cs">
       <DependentUpon>Forget pass.cs</DependentUpon>
     </Compile>
+    <Compile Include="kanban board.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kanban board.Designer.cs">
+      <DependentUpon>kanban board.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +103,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forget pass.resx">
       <DependentUpon>Forget pass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kanban board.resx">
+      <DependentUpon>kanban board.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>

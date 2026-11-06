@@ -21,5 +21,25 @@ namespace Task_Mangement
         {
 
         }
+
+        private void pnlSidebar_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void card3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void card2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnNavReports_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
